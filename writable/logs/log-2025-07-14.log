@@ -1,0 +1,13 @@
+CRITICAL - 2025-07-14 23:29:00 --> Exception: Unable to generate image: please check if the GD extension is enabled and configured correctly
+[Method: POST, Route: admin/members]
+in VENDORPATH\endroid\qr-code\src\Writer\AbstractGdWriter.php on line 26.
+ 1 VENDORPATH\endroid\qr-code\src\Writer\PngWriter.php(25): Endroid\QrCode\Writer\AbstractGdWriter->write(Object(Endroid\QrCode\QrCode), null, Object(Endroid\QrCode\Label\Label), [...])
+ 2 APPPATH\Libraries\QRGenerator.php(58): Endroid\QrCode\Writer\PngWriter->write(Object(Endroid\QrCode\QrCode), null, Object(Endroid\QrCode\Label\Label))
+ 3 APPPATH\Controllers\Members\MembersController.php(205): App\Libraries\QRGenerator->generateQRCode('942636d64f5bc608d1bb670226de4569214d32f4', 'Prayoga 212 udin', 'C:\\xampp\\htdocs\\sistem-perpustakaan-qr-code-main - Asli\\public\\uploads\\qr_codes\\members\\', 'prayoga-212-udin_53c74_1752510540.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members\MembersController->create()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members\MembersController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sistem-perpustakaan-qr-code-main - Asli\\public\\index.php')

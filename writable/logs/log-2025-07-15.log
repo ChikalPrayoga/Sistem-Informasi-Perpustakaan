@@ -1,0 +1,294 @@
+CRITICAL - 2025-07-15 21:03:09 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "home/home.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/home.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('home/home', [], true)
+ 3 APPPATH\Controllers\Home.php(18): view('home/home')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sistem-perpustakaan-qr-code-main - Asli\\public\\index.php')
+CRITICAL - 2025-07-15 21:03:57 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "home/home.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/home.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('home/home', [], true)
+ 3 APPPATH\Controllers\Home.php(18): view('home/home')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sistem-perpustakaan-qr-code-main - Asli\\public\\index.php')
+CRITICAL - 2025-07-15 21:04:02 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "home/home.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/home.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('home/home', [], true)
+ 3 APPPATH\Controllers\Home.php(18): view('home/home')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sistem-perpustakaan-qr-code-main - Asli\\public\\index.php')
+CRITICAL - 2025-07-15 21:05:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "home/home.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/home.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('home/home', [], true)
+ 3 APPPATH\Controllers\Home.php(18): view('home/home')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sistem-perpustakaan-qr-code-main - Asli\\public\\index.php')
+CRITICAL - 2025-07-15 21:09:46 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "home/home.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/home.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('home/home', [], true)
+ 3 APPPATH\Controllers\Home.php(18): view('home/home')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sistem-perpustakaan-qr-code-main - Asli\\public\\index.php')
+CRITICAL - 2025-07-15 21:25:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "homepage/homepage.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('homepage/homepage.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('homepage/homepage', [], true)
+ 3 APPPATH\Controllers\Home.php(18): view('homepage/homepage')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sistem-perpustakaan-qr-code-main - Asli\\public\\index.php')
+CRITICAL - 2025-07-15 21:25:35 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "homepage/homepage.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('homepage/homepage.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('homepage/homepage', [], true)
+ 3 APPPATH\Controllers\Home.php(18): view('homepage/homepage')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sistem-perpustakaan-qr-code-main - Asli\\public\\index.php')
+CRITICAL - 2025-07-15 21:25:45 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "homepage/homepage.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('homepage/homepage.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('homepage/homepage', [], true)
+ 3 APPPATH\Controllers\Home.php(18): view('homepage/homepage')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sistem-perpustakaan-qr-code-main - Asli\\public\\index.php')
+CRITICAL - 2025-07-15 21:26:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "homepage/homepage.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('homepage/homepage.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('homepage/homepage', [], true)
+ 3 APPPATH\Controllers\Home.php(18): view('homepage/homepage')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sistem-perpustakaan-qr-code-main - Asli\\public\\index.php')
+DEBUG - 2025-07-15 21:27:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 21:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 21:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 21:29:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 21:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 21:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 21:37:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 21:37:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 21:37:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 21:37:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 21:40:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 21:40:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 21:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 21:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:33:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:33:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:33:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:33:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:34:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:34:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:34:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:44:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:45:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:45:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:45:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:45:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:45:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:45:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:45:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:45:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:45:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:45:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:49:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:49:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:56:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:56:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:56:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:56:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:57:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:57:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:58:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:58:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:59:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:59:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:59:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:59:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:59:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:59:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:59:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:59:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:59:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:59:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:59:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:59:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 22:59:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:00:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:00:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:00:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:00:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:00:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:00:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:00:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:00:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:00:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:00:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:00:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:00:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:00:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:01:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:01:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:01:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:01:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:01:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:01:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:01:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:01:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:01:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:01:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:01:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:01:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:01:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:01:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:52:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-15 23:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-07-15 23:58:07 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('127.0.0.1', 'root', Object(SensitiveParameterValue), 'db_book_library...', 3306, '', 0)
+#1 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Test\DatabaseTestTrait.php(83): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Test\DatabaseTestTrait.php(59): ExampleDatabaseTest->loadDependencies()
+#4 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Test\CIUnitTestCase.php(251): ExampleDatabaseTest->setUpDatabase()
+#5 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestCase.php(1216): CodeIgniter\Test\CIUnitTestCase->setUp()
+#6 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestResult.php(729): PHPUnit\Framework\TestCase->runBare()
+#7 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestCase.php(973): PHPUnit\Framework\TestResult->run(Object(ExampleDatabaseTest))
+#8 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestSuite.php(685): PHPUnit\Framework\TestCase->run(Object(PHPUnit\Framework\TestResult))
+#9 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestSuite.php(685): PHPUnit\Framework\TestSuite->run(Object(PHPUnit\Framework\TestResult))
+#10 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestSuite.php(685): PHPUnit\Framework\TestSuite->run(Object(PHPUnit\Framework\TestResult))
+#11 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\TextUI\TestRunner.php(651): PHPUnit\Framework\TestSuite->run(Object(PHPUnit\Framework\TestResult))
+#12 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\TextUI\Command.php(146): PHPUnit\TextUI\TestRunner->run(Object(PHPUnit\Framework\TestSuite), Array, Array, true)
+#13 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\TextUI\Command.php(99): PHPUnit\TextUI\Command->run(Array, true)
+#14 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#15 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\bin\phpunit(122): include('C:\\xampp\\htdocs...')
+#16 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:246
+Stack trace:
+#0 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Test\DatabaseTestTrait.php(83): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Test\DatabaseTestTrait.php(59): ExampleDatabaseTest->loadDependencies()
+#3 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Test\CIUnitTestCase.php(251): ExampleDatabaseTest->setUpDatabase()
+#4 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestCase.php(1216): CodeIgniter\Test\CIUnitTestCase->setUp()
+#5 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestResult.php(729): PHPUnit\Framework\TestCase->runBare()
+#6 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestCase.php(973): PHPUnit\Framework\TestResult->run(Object(ExampleDatabaseTest))
+#7 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestSuite.php(685): PHPUnit\Framework\TestCase->run(Object(PHPUnit\Framework\TestResult))
+#8 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestSuite.php(685): PHPUnit\Framework\TestSuite->run(Object(PHPUnit\Framework\TestResult))
+#9 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestSuite.php(685): PHPUnit\Framework\TestSuite->run(Object(PHPUnit\Framework\TestResult))
+#10 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\TextUI\TestRunner.php(651): PHPUnit\Framework\TestSuite->run(Object(PHPUnit\Framework\TestResult))
+#11 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\TextUI\Command.php(146): PHPUnit\TextUI\TestRunner->run(Object(PHPUnit\Framework\TestSuite), Array, Array, true)
+#12 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\TextUI\Command.php(99): PHPUnit\TextUI\Command->run(Array, true)
+#13 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#14 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\bin\phpunit(122): include('C:\\xampp\\htdocs...')
+#15 {main}
+ERROR - 2025-07-15 23:58:07 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('127.0.0.1', 'root', Object(SensitiveParameterValue), 'db_book_library...', 3306, '', 0)
+#1 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Test\DatabaseTestTrait.php(83): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Test\DatabaseTestTrait.php(59): ExampleDatabaseTest->loadDependencies()
+#4 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Test\CIUnitTestCase.php(251): ExampleDatabaseTest->setUpDatabase()
+#5 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestCase.php(1216): CodeIgniter\Test\CIUnitTestCase->setUp()
+#6 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestResult.php(729): PHPUnit\Framework\TestCase->runBare()
+#7 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestCase.php(973): PHPUnit\Framework\TestResult->run(Object(ExampleDatabaseTest))
+#8 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestSuite.php(685): PHPUnit\Framework\TestCase->run(Object(PHPUnit\Framework\TestResult))
+#9 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestSuite.php(685): PHPUnit\Framework\TestSuite->run(Object(PHPUnit\Framework\TestResult))
+#10 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestSuite.php(685): PHPUnit\Framework\TestSuite->run(Object(PHPUnit\Framework\TestResult))
+#11 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\TextUI\TestRunner.php(651): PHPUnit\Framework\TestSuite->run(Object(PHPUnit\Framework\TestResult))
+#12 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\TextUI\Command.php(146): PHPUnit\TextUI\TestRunner->run(Object(PHPUnit\Framework\TestSuite), Array, Array, true)
+#13 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\TextUI\Command.php(99): PHPUnit\TextUI\Command->run(Array, true)
+#14 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#15 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\bin\phpunit(122): include('C:\\xampp\\htdocs...')
+#16 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:246
+Stack trace:
+#0 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Test\DatabaseTestTrait.php(83): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Test\DatabaseTestTrait.php(59): ExampleDatabaseTest->loadDependencies()
+#3 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\codeigniter4\framework\system\Test\CIUnitTestCase.php(251): ExampleDatabaseTest->setUpDatabase()
+#4 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestCase.php(1216): CodeIgniter\Test\CIUnitTestCase->setUp()
+#5 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestResult.php(729): PHPUnit\Framework\TestCase->runBare()
+#6 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestCase.php(973): PHPUnit\Framework\TestResult->run(Object(ExampleDatabaseTest))
+#7 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestSuite.php(685): PHPUnit\Framework\TestCase->run(Object(PHPUnit\Framework\TestResult))
+#8 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestSuite.php(685): PHPUnit\Framework\TestSuite->run(Object(PHPUnit\Framework\TestResult))
+#9 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\Framework\TestSuite.php(685): PHPUnit\Framework\TestSuite->run(Object(PHPUnit\Framework\TestResult))
+#10 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\TextUI\TestRunner.php(651): PHPUnit\Framework\TestSuite->run(Object(PHPUnit\Framework\TestResult))
+#11 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\TextUI\Command.php(146): PHPUnit\TextUI\TestRunner->run(Object(PHPUnit\Framework\TestSuite), Array, Array, true)
+#12 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\src\TextUI\Command.php(99): PHPUnit\TextUI\Command->run(Array, true)
+#13 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#14 C:\xampp\htdocs\sistem-perpustakaan-qr-code-main - Asli\vendor\bin\phpunit(122): include('C:\\xampp\\htdocs...')
+#15 {main}
